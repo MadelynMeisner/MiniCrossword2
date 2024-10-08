@@ -15,7 +15,7 @@ public class MiniCrossword
 			{
 			greetPlayer();
 			displayBoard();
-//hi
+//p[oop
 
 			public static void greetPlayer()
 			{
