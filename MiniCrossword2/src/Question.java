@@ -1,12 +1,11 @@
 class Question
 {
- 
 		private String question;
 		private String answer;
 		private String number;
 
-
 	public Question(String n,String q, String a)
+	
 	{    
 	number = n;
 	question = q;
@@ -25,21 +24,24 @@ class Question
 	}
 	
 	public String getQuestion()
-	    {
-	      return question;
-	    }
+    {
+      return question;
+    }
 
 	public void setQuestion(String q)
-	    {
-	      question = q;
-	    }
+    {
+      question = q;
+    }
 
-	  public String getAnswer()
-	      {
-	        return answer;
-	      }
+    public String getAnswer()
+    {
+    return answer;
+    }
 
-	  public void setAnswer(String a)
-	      {
-	       answer = a;
-	      }
+    public void setAnswer(String a)
+    {
+    answer = a;
+    }
+    
+    
+}
