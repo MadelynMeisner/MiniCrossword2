@@ -19,7 +19,7 @@ public class Data
   public static void fillcrosswordTwo()
 	
 	{
-		crosswordTwo.add(new Question("1D", "What do you call a bright, harsh light that’s difficult to look at?", "GLARE"));
+		crosswordTwo.add(new Question("1D", "What do you call a bright, harsh light thats difficult to look at?", "GLARE"));
 		crosswordTwo.add(new Question("2D", "What term refers to someone from the ancient empire that built roads and aqueducts?", "ROMAN"));
 		crosswordTwo.add(new Question("3D", "What do you do when you deliberately stay away from something or someone?", "AVOID"));
 		crosswordTwo.add(new Question("4D", "What do you call something that is packed tightly or has little empty space inside?", "DENSE"));
